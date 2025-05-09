@@ -1,5 +1,5 @@
 ---
-title: "Premier-Post"
+title: "Une publication"
 date: 2025-05-09
 ---
-J'écris mon premier post sur mon blog.
+J'écris ma première publication.
