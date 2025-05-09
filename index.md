@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Bienvenue
 ---
 
-Texte d'essaie dans index.
+Voici un blog d'essaie.
